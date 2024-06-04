@@ -1,0 +1,21 @@
+///////////////////////////
+Authorization
+///////////////////////////
+________________________________________________________
+
+Definition: Verifying a user’s identity.
+________________________________________________________
+
+	•	Ensures users are who they claim to be.
+	•	Users create an account with a username and password.
+	•	Users provide the correct password to access features or data.
+
+
+________________________________________________________
+
+Data Security: Ensures users interact only with relevant data.
+________________________________________________________
+
+	•	Protects sensitive data from unauthorized access.
+	•	Prevents unauthorized modifications.
+	•	Maintains integrity and security of the application and user data.
