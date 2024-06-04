@@ -1,0 +1,16 @@
+<%- include('../partials/meta.ejs') %>
+  <body>
+    <h1>Create a new account!</h1>
+    <form action="/auth/sign-up" method="POST">
+      <label for="username">Username:</label>
+      <input id="username" name="username" type="text" />
+      <label for="password">Password:</label>
+      <input id="password" name="password" type="password" />
+      <label for="confirmPassword">Confirm Password</label>
+      <input id="confirmPassword" name="confirmPassword" type="password" />
+      <div class="btn-container">
+          <button type="submit">Create User</button>
+      </div>
+    </form>
+  </body>
+</html>
